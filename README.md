@@ -1,6 +1,7 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:84fab0,100:8fd3f4&height=180&section=header&text=Shweta%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 <div align="center">
 
-# Shweta Singh  
 ### 🎓 B.Tech CSE | Data Science Minor | Aspiring Data Analyst  
 
 </div>
@@ -9,8 +10,8 @@
 
 ## 👋 Hi, I’m Shweta Singh  
 
-🎓 B.Tech Computer Science student at **Lovely Professional University**  
-📊 Minor in **Data Science** | Open Minor in **Psychology**  
+🎓 **B.Tech Computer Science** student at **Lovely Professional University**  
+📊 **Minor in Data Science** | Open Minor in **Psychology**  
 💡 Interested in **Data Analytics, Data Science & Data Engineering**
 
 - 🔍 Love working with **data, insights & real-world datasets**
@@ -40,9 +41,9 @@
 
 | Project | Description | Tech |
 |-------|------------|------|
-| 🚗 EV Population Analysis | Data analysis on Washington EV population | Excel, Python |
-| 📈 Academic Data Dashboard | Student data insights & visualization | Excel, SQL |
-| 🌐 Web Project | Interactive frontend + backend | HTML, CSS, JS |
+| 🚗 **EV Population Analysis** | Data analysis on Washington EV population | Excel, Python |
+| 📈 **Academic Data Dashboard** | Student data insights & visualization | Excel, SQL |
+| 🌐 **Web Project** | Interactive frontend + backend | HTML, CSS, JS |
 
 ---
 
@@ -58,18 +59,24 @@
 
 ## 🏅 Certifications  
 
-- ✔️ FreeCodeCamp – HTML, CSS, JavaScript  
-- ✔️ Python Industrial Training – CodeSprint  
-- ✔️ Cybersecurity Internship – NullClass  
+- ✔️ **FreeCodeCamp** – HTML, CSS, JavaScript  
+- ✔️ **Python Industrial Training** – CodeSprint  
+- ✔️ **Cybersecurity Internship** – NullClass  
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/shwetasingh05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/shwetasingh10">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:shwetasinghrajput2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/shwetasingh05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
