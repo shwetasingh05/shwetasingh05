@@ -17,7 +17,6 @@
 - 🔍 Love working with **data, insights & real-world datasets**
 - 🧠 Strong foundation in **DSA & problem solving**
 - 🏆 Hackathons • Research • Technical Events  
-- 🌍 Planning **Master’s abroad (Netherlands)**
 
 ---
 
